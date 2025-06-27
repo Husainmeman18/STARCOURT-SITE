@@ -42,11 +42,3 @@ Context API used for state management across authentication and cart.
 
 1-Line Summary for Resume (if needed):
 Developed a full-stack eCommerce app with social logins, Razorpay payments, and OTP-based password recovery using React, Node.js, and MongoDB.
-
-✅ Let me know if you want this in:
-
-PDF format (to attach as a portfolio sample),
-
-Markdown file (for GitHub or export),
-
-or help crafting a LinkedIn post to showcase this project to potential employers.
