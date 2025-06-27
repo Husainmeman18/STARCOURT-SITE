@@ -1,3 +1,4 @@
+# Starcourt An Ecommerce Platform
 Tech Stack: React.js, Node.js, Express.js, MongoDB, Vite, Razorpay, Google OAuth, Facebook OAuth
 
 Developed a full-featured eCommerce web application offering a seamless user experience and secure transactional flow. Integrated modern technologies and third-party services for scalability and performance.
