@@ -1,22 +1,52 @@
-# STARCOURT-SITE
-Tech Stack: React.js, Node.js, Express.js, MongoDB, Vite, Razorpay, Passport.js, OAuth, Nodemailer
+Tech Stack: React.js, Node.js, Express.js, MongoDB, Vite, Razorpay, Google OAuth, Facebook OAuth
 
-Built a complete eCommerce web app with product browsing, cart functionality, and secure checkout.
+Developed a full-featured eCommerce web application offering a seamless user experience and secure transactional flow. Integrated modern technologies and third-party services for scalability and performance.
 
-Implemented user authentication with email/password and OAuth 2.0 (Google, Facebook) using Passport.js.
+Key Highlights:
 
-Developed "Forgot Password" flow with OTP-based email verification via Nodemailer and session validation.
+🔐 Authentication System:
 
-Designed product listings with categorized carousels (New In, Best Sellers) and individual product detail pages.
+Traditional email/password login with secure session management.
 
-Built an interactive cart system using React Context API with item quantity control and live price updates.
+Integrated Google and Facebook OAuth using Passport.js.
 
-Integrated Razorpay for payment processing and stored orders with user and transaction details in MongoDB.
+Implemented "Forgot Password" with OTP verification via email using Nodemailer and secure OTP validation.
 
-Created RESTful APIs for users, products, cart, orders, and password reset workflows.
+🛒 Product and Cart Functionality:
 
-Utilized MongoDB and Mongoose for database operations and session management.
+Dynamic home page with categorized carousels (New In, Best Sellers).
 
-Developed a responsive frontend using React.js and Vite with custom CSS and modular components.
+Product detail view and fully interactive cart system using React Context API.
 
-Managed global states using React Context for authentication and cart persistence.
+💳 Payments and Orders:
+
+Razorpay integration for online payments.
+
+Stored complete order details (user, cart items, payment response) in MongoDB after successful checkout.
+
+⚙️ Backend API:
+
+RESTful routes for users, products, cart, orders, and password reset.
+
+OTP and session-based password recovery flow with email delivery.
+
+MongoDB used for user, session, cart, and order persistence.
+
+💻 Frontend:
+
+Built with React.js and Vite for fast builds and modular development.
+
+Custom CSS used for responsive UI without external libraries.
+
+Context API used for state management across authentication and cart.
+
+1-Line Summary for Resume (if needed):
+Developed a full-stack eCommerce app with social logins, Razorpay payments, and OTP-based password recovery using React, Node.js, and MongoDB.
+
+✅ Let me know if you want this in:
+
+PDF format (to attach as a portfolio sample),
+
+Markdown file (for GitHub or export),
+
+or help crafting a LinkedIn post to showcase this project to potential employers.
